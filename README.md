@@ -1,5 +1,12 @@
 # BasicImageEditor
 This inlcudes an app which performs manipulations on the given images without crashing.
+## Necesssary packages
+* tkinter
+* PIL
+* Pylab
+* numpy
+* Matplotlib
+
 GUI includes few buttons/filters/functions- 
 
   * Histogram equalization 
